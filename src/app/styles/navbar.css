@@ -1,0 +1,32 @@
+.head{
+    background-color: brown;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between
+    align-items 
+     }
+
+     .title{
+        background-color: brown;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        justify-items: center;
+         }
+
+         .navbar{
+            background-color: brown;
+            width: 100%;
+            margin-right: 50px;
+            justify-content: space-evenly ;
+             }
+
+             .navbar-link{
+              background-color: aliceblue;
+               display: flex;
+               justify-content: space-evenly;
+             }
+             

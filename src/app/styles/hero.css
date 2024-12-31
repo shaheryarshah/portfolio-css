@@ -1,0 +1,50 @@
+.picture{
+    display: flex;
+    margin-top: 10%;    
+    
+    }
+
+    .picture{
+        width: 50%;
+        height: 400px;
+         display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        
+    }
+    
+    .hero{
+        width: 80%;
+        height: 90%;
+        margin-top: 100px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: rgb(78, 136, 187);
+        justify-content: center;
+        box-shadow: inherit;
+        margin-left: 120px;
+        align-items: center;
+    }
+
+    .hero-right{
+        width: 80%;
+        height: 90%;
+        
+       
+                align-items: center;
+
+    }
+    .button{
+        font-size: larger;
+        background-color: rgb(182, 219, 208);
+        height: 50px;
+        width: 150px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-right: 10px;
+        padding-left: 10px;
+        border-color: blueviolet;
+        border-radius: 5px;
+        margin: 25px;
+    }
